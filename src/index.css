@@ -82,6 +82,21 @@ li::before {
   font-size: 2.5rem;
 }
 
+.landing__container {
+  background: #ccc;
+  margin-top: 48px;
+  padding: 12px;
+}
+
+.landing__container h2 {
+  text-align: center;
+}
+.landing__container p {
+  position: relative;
+  max-width: 700px;
+  margin: 12px auto;
+}
+
 .hero__section span {
   margin-top: -0.8rem;
   text-align: center;
@@ -105,7 +120,7 @@ li::before {
 }
 
 .after__hero {
-  margin-top: 80svh;
+  margin-top: 83svh;
 }
 
 .red__line {
