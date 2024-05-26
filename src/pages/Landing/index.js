@@ -19,14 +19,6 @@ export default function Landing() {
         <h2>What has Ylva done Already?</h2>
         <p>Projects</p>
       </div>
-      <div className="landing__container">
-        <h2>How to contact Ylva?</h2>
-        <p>Contact</p>
-        <a href="https://github.com/YlvaLund">
-          <i className="" />
-          Github Profile
-        </a>
-      </div>
     </div>
   );
 }

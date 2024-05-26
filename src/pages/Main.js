@@ -10,7 +10,11 @@ export default function Main() {
         <Outlet />
       </div>
       <footer>
-        <span>Footer</span>
+        <h4>Contact Me</h4>
+        <a href="https://github.com/YlvaLund">
+          <i className="fa-brands fa-github"></i>
+          <span>Github Profile</span>
+        </a>
       </footer>
     </main>
   );
